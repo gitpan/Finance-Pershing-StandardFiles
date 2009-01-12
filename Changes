@@ -1,0 +1,5 @@
+0.002000 - January 12, 2009 
+  - B and C records do not depend on A records in SPAT file
+    - Updated table definitions to reflect this.
+0.001000 - 
+  - Initial release.

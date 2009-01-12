@@ -1,0 +1,26 @@
+---
+abstract: 'Tools to interface with Pershing''s standard files'
+author:
+  - 'Guillermo Roditi (groditi) <groditi@cpan.org>'
+distribution_type: module
+generated_by: 'Module::Install version 0.76'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Finance-Pershing-StandardFiles
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Class::MOP: 0
+  DBIx::Class: 0.08000
+  DateTime: 0
+  IO::File: 0
+  Moose: 0.28
+  Path::Class: 0
+  Sub::Exporter: 0
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.002000
